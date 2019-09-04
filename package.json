@@ -2,7 +2,7 @@
   "name": "fontawesome-4.7",
   "version": "4.7.0",
   "description": "The last release before v5 packaged, in case you need it",
-  "main": "index.js",
+  "main": "css/font-awesome.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,13 @@
     "oldversion"
   ],
   "author": "Fontawesome Inc",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkg20001/fontawesome-4.7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkg20001/fontawesome-4.7/issues"
+  },
+  "homepage": "https://github.com/mkg20001/fontawesome-4.7#readme"
 }
